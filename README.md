@@ -30,6 +30,10 @@ The data is retrieved through an online platform called QuantConnect and is base
 
 I have selected 3 indicators from the long list of indicators that are available and used by traders to see if they are effective features in a LSTM model. The reason for selecting them is that I personally trade using these indicators but manually. Using these indicators, can the closing price of the next 1 hour bar be predicted, and how well?
 
+List of indicators, these were the ones listed on Wikipedia, but there are many, may more available on trading platforms.
+
+![indicators](images/indicators.png)
+
 ### Candlestick charts
 
  - Price is usually displayed so that the open, high, low and close of the time frame is visually represented a Japanese candlestick
